@@ -8,4 +8,5 @@ How is the staging area different from the working directory and the repository?
 - Repository: Ist der Container für alles Dateien, die über die staging area und dann ein commit hinzugefügt wurden. Die verschiedenen Dateien können sich theoritisch in verschiedenen Verzeichnissen befinden 
 - Staging area: Ist die aktuelle Arbeitsmenge an Dateien, die 
 
-TEST TEST TEST
+TEST TEST TEST 
+und noch ein Test
